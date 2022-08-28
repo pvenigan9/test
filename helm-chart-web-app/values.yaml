@@ -1,0 +1,4 @@
+# Default values for helm-chart-web-app.
+
+replicaCount: 1
+
