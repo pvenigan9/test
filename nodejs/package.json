@@ -1,0 +1,11 @@
+{
+  "name": "package.js",
+  "version": "1.0.0",
+  "description": "Build this node js application for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
